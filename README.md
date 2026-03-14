@@ -9,7 +9,7 @@ The project is implemented in **Python** and leverages libraries such as `scikit
 
 project-root/  
 │  
-├── data/  
+├── file/  
 │   ├── pv_dataset_sample.csv  
 │   ├── pv_trainingset.csv  
 │   └── pv_testset.csv  
@@ -31,7 +31,7 @@ project-root/
 
 ## Dataset
 
-- **`pv_dataset_sample.csv`**: sample dataset for testing the code  
+- **`pv_dataset.csv`**: dataset for testing the code  
 - **`pv_trainingset.csv`** and **`pv_testset.csv`**: training and test subsets
 
 ---
@@ -66,7 +66,7 @@ python main.py
 ```
 
 The script will:
-1. Load the dataset (pv_dataset_sample.csv or full CSV)
+1. Load the dataset (pv_dataset.csv or full CSV)
 2. Perform data analysis and generate plots (results/data_analysis_*.jpg)
 3. Remove outliers and generate updated plots
 4. Study and optimize models using Optuna
