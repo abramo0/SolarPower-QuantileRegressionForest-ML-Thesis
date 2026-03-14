@@ -1,0 +1,25 @@
+==================================================
+Model: linear
+Best hyperparameters: {}
+Best scoring: 0.0132
+==================================================
+Model: polynomial
+Best hyperparameters: {'degree': 2}
+Best scoring: 0.0137
+Polynomial Coefficients: [ 0.00000000e+00  9.75187621e-04 -1.30941087e-07]
+==================================================
+Model: decision_tree
+Best hyperparameters: {'max_depth': 4}
+Best scoring: 0.0142
+==================================================
+Model: gradient_boosting
+Best hyperparameters: {'n_estimators': 89, 'max_depth': 2}
+Best scoring: 0.0140
+==================================================
+Model: random_forest
+Best hyperparameters: {'n_estimators': 122, 'max_depth': 4}
+Best scoring: 0.0139
+==================================================
+Model: random_forest_quantile
+Best hyperparameters: {'n_estimators': 51, 'max_depth': 3, 'min_samples_split': 9, 'min_samples_leaf': 4, 'max_leaf_nodes': 197}
+Best scoring: 0.0139
