@@ -20,7 +20,7 @@ project-root/
 │   ├── comparison_r2_mse.jpg  
 │   └── ...  
 ├── results/  
-|    ├── results.txt  
+│   └── results.txt  
 │  
 ├── main.py  
 ├── requirements.txt  
