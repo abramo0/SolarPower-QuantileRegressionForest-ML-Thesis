@@ -109,6 +109,10 @@ This project is licensed under the MIT License
 
 ---
 ## 👤 About Me
-I am passionate about Machine Learning, data analysis, and energy forecasting.  
+I am an Electronic and Computer Engineer passionate about Machine Learning, Artificial Intelligence and Data Science.
+
+My interests lie in developing intelligent systems that combine software, data analysis, and engineering applications to solve real-world problems. I enjoy exploring machine learning techniques, building predictive models, and applying data-driven approaches to areas such as energy forecasting and optimization.
+
+Through my projects, I aim to continuously improve my skills in Python, machine learning algorithms, and computational modeling, while bridging the gap between engineering and emerging technologies.
 
 🔗 **LinkedIn:** [Abramo Azer](https://www.linkedin.com/in/abramo-azer-229610299/)
